@@ -1,4 +1,4 @@
-package com.eliezer.apibarberia;
+package com.eliezer.apibarberia.entity;
 
 import java.math.BigDecimal;
 
